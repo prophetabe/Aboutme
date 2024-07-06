@@ -1,0 +1,14 @@
+.skill {
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .skill h3 {
+    margin: 0;
+  }
+  .skills {
+    text-align: center;
+    margin: 20px;
+  }
